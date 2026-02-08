@@ -1,2 +1,22 @@
-# Smart-Hotel-ADMS-Frontend-V2
-Smart Hotel Booking Management System (ADMS Frontend Version 2) using HTML, CSS, and JavaScript with CRUD operations and client-side validation.
+
+# Smart Hotel Management System - Booking Module (Frontend V3)
+
+## Features
+- Add Booking (Passport Optional)
+- View Booking Records
+- Update Booking
+- Cancel Booking
+- Guest & Room Information Fields
+
+## How to Run
+Open index.html in browser.
+
+## Submission
+Upload to GitHub (Public) and share link with instructor.
+
+## Screenshots Required
+- Booking Form UI
+- Add Booking
+- Update Booking
+- Cancel Booking
+- GitHub Public Repository
