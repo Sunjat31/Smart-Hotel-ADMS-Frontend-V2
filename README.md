@@ -1,5 +1,5 @@
 
-# Smart Hotel Management System - Booking Module (Frontend V2)
+# Smart Hotel Management System - Booking Module (Frontend Version 2)
 
 ## Features
 - Add Booking (Passport Optional)
