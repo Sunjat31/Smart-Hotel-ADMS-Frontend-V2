@@ -1,5 +1,5 @@
 
-# Smart Hotel Management System - Booking Module (Frontend Version 2)
+# Smart Hotel Management System - ADMS Project (Frontend Version 2)
 
 ## Features
 - Add Booking (Passport Optional)
@@ -19,4 +19,3 @@ Upload to GitHub (Public) and share link with instructor.
 - Add Booking
 - Update Booking
 - Cancel Booking
-- GitHub Public Repository
